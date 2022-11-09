@@ -1,0 +1,15 @@
+{
+    "name": "gentlemanyao/new_project",
+    "autoload": {
+        "psr-4": {
+            "Gentlemanyao\\NewProject\\": "src/Math/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GentlemmanYao",
+            "email": "1025058159@qq.com"
+        }
+    ],
+    "require": {}
+}
